@@ -107,9 +107,29 @@ com.miui.bugreport
 com.google.android.configupdater
 com.miui.global.packageinstaller              # MIUI's package installer extension (seems to ping out to Alibaba servers)
 org.codeaurora.ims                            # IMS - "handles wireless functions" (experience says it's not so critical for this device)
-com.android.camera                            # Camera - Running on background without reason (+Network activity I think)
+com.android.camera                            #  Camera - Running on background without reason (+Network activity I think)
+com.xiaomi.scanner                            #  Mi QR Scanner
+
+[INSTALL]
+com.simplemobiletools.gallery.pro      # Gallery
+com.simplemobiletools.calendar.pro     # Calendar 
+net.sourceforge.opencamera             # Open Camera
+app.organicmaps                        # Organic Maps
+org.dslul.openboard.input.method.latin # OpenBoard - Keyboard
+com.artifex.mupdf.viewer.app           # MuPDF viewer
+com.mhss.app.mybrain                   # My Brain - Notes
+org.videolan.vlc                       # VLC - video player
+protect.videoeditor                    # Video Transcoder - Editor
+org.schabi.newpipe                     # NewPipe - YouTube client
+im.vector.app                          # Element - Matrix client
+com.termux                             # Termux - Terminal emulator
+org.fdroid.fdroid                      # F-Droid - app store
+com.tengu.sharetoclipboard             # Share to clipboard
+com.secuso.privacyFriendlyCodeScanner  # QR Scanner
+
 [SHELL]
 settings put global window_animation_scale 0     # Setting "Window animation scale" to 0
 settings put global transition_animation_scale 0 # Setting "Transition animation scale" to 0
 settings put global animator_duration_scale 1    # Setting "Animator duration scale" to 0
 settings put secure accessibility_display_daltonizer 0 # Setting screen to grey ("Simulate color space")
+echo "GoTo: https://www.bromite.org/fdroid and add Bromite to F-Droid via the QR-Scanner-app"
