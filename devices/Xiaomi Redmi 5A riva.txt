@@ -115,7 +115,7 @@ com.simplemobiletools.gallery.pro      # Gallery
 com.simplemobiletools.calendar.pro     # Calendar 
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
-org.dslul.openboard.input.method.latin # OpenBoard - Keyboard
+org.dslul.openboard.inputmethod.latin  # OpenBoard - Keyboard
 com.artifex.mupdf.viewer.app           # MuPDF viewer
 com.mhss.app.mybrain                   # My Brain - Notes
 org.videolan.vlc                       # VLC - video player
