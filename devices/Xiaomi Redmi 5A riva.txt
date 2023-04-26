@@ -1,0 +1,115 @@
+[UNINSTALL]
+com.android.email
+com.google.android.apps.docs
+com.google.android.apps.tachyon
+com.google.android.videos
+com.google.android.apps.photos
+com.google.android.music
+com.google.android.googlequicksearchbox
+com.google.android.inputmethod.pinyin
+com.google.android.feedback
+com.google.android.youtube
+com.mi.android.globalminusscreen
+com.factory.mmigroup
+com.facebook.services
+com.miui.miservice
+com.miui.backup
+com.miui.face
+com.miui.hybrid
+com.miui.hybrid.accessory
+com.miui.msa.global
+com.miui.notes
+com.miui.userguide
+com.xiaomi.mipicks
+com.xiaomi.midrop
+com.mipay.wallet.in
+com.xiaomi.payment
+com.miui.yellowpage
+com.miui.android.fashiongallery
+com.micredit.in
+com.miui.cloudservice.sysbase
+com.miui.cloudservice
+com.miui.cloudbackup
+com.miui.translation.kingsoft
+com.miui.translation.youdao
+com.miui.translation.xmcloud
+com.miui.translationservice
+com.miui.videoplayer
+com.xiaomi.joyose
+com.miui.enbbs
+com.duokan.phone.remotecontroller
+com.bsp.catchlog
+com.facebook.appmanager
+com.facebook.system
+com.android.browser
+com.google.android.inputmethod.latin
+com.google.android.marvin.talkback
+com.google.android.printservice.recommendation
+com.google.android.syncadapters.calendar
+com.google.android.tts
+com.mi.webkit.core
+com.mipay.wallet.id 
+com.miui.analytics
+com.miui.micloudsync
+com.xiaomi.micloud.sdk                          # Micloud SDK
+com.miui.gallery                                # MIUI Gallerry - won't work without micloud sdk
+com.miui.touchassistant
+com.miui.wmsvc
+com.xiaomi.glgm
+com.xiaomi.mi_connect_service
+com.xiaomi.xmsf
+com.android.egg
+com.android.wallpaper.livepicker 
+com.android.wallpaperbackup
+com.miui.weather2
+com.android.bips 
+com.android.vending
+com.google.android.apps.maps                     # Google Maps
+com.google.android.gm                            # GMAIL - Application
+com.google.android.gms                           # Google Play services - (IMPORTANT: disable policy under device-admin-apps) Screenshot_6085.jpg  
+com.google.android.partnersetup
+com.google.android.syncadapters.contacts
+com.dsi.ant.server
+com.qualcomm.location
+com.android.calendar
+com.android.providers.calendar
+com.android.providers.partnerbookmarks
+com.qualcomm.embms
+com.qualcomm.qti.qmmi
+com.qualcomm.qti.callfeaturessetting
+com.qualcomm.qti.lpa
+com.qualcomm.qti.qtisystemservice
+com.qualcomm.qti.uim
+com.qualcomm.qti.confdialer
+com.qualcomm.qti.services.secureui
+com.qualcomm.qti.auth.fidocryptoservice
+com.qti.qualcomm.datastatusnotification
+com.qti.xdivert
+com.qti.dpmserviceapp
+com.qti.confuridialer
+com.qti.qualcomm.deviceinfo
+org.codeaurora.bluetooth  
+cn.wps.xiaomi.abroad.lite                     # WPS Office. Has been flagged for years for malware. This was banned in India for a reason.
+com.miui.cleanmaster                          # Together with WPS Office, Cleaner Master was found to be affiliated with Cheetah Mobile, that included spyware and adware in their software.
+com.miui.player                               # Include if you don't use Xiaomi's music app.
+com.xiaomi.miplay_client                      # Mi Play. This is an unnecessary process that hasn't really been used for years.
+com.miui.powerkeeper
+com.xiaomi.powerchecker
+com.miui.securitycore
+com.xiaomi.discover                           # Xiaomi Updater
+com.lbe.security.miui                         # Xiaomi Permissions
+com.xiaomi.mirecycle
+com.miui.daemon
+com.miui.core
+com.android.stk
+com.xiaomi.location.fused
+com.miui.bugreport
+com.google.android.configupdater
+com.miui.global.packageinstaller              # MIUI's package installer extension (seems to ping out to Alibaba servers)
+org.codeaurora.ims                            # IMS - "handles wireless functions" (experience says it's not so critical for this device)
+com.android.camera                            # Camera - Running on background without reason (+Network activity I think)
+[SHELL]
+settings put global window_animation_scale 0     # Setting "Window animation scale" to 0
+settings put global transition_animation_scale 0 # Setting "Transition animation scale" to 0
+settings put global animator_duration_scale 1    # Setting "Animator duration scale" to 0
+settings put secure accessibility_display_daltonizer 0 # Setting screen to grey ("Simulate color space")
