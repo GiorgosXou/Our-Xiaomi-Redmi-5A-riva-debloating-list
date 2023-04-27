@@ -1,76 +1,90 @@
 [UNINSTALL]
-com.android.email
-com.google.android.apps.docs
-com.google.android.apps.tachyon
-com.google.android.videos
-com.google.android.apps.photos
-com.google.android.music
-com.google.android.googlequicksearchbox
-com.google.android.inputmethod.pinyin
-com.google.android.feedback
-com.google.android.youtube
-com.mi.android.globalminusscreen
-com.factory.mmigroup
-com.facebook.services
-com.miui.miservice
-com.miui.backup
-com.miui.face
-com.miui.hybrid
-com.miui.hybrid.accessory
-com.miui.msa.global
-com.miui.notes
-com.miui.userguide
-com.xiaomi.mipicks
-com.xiaomi.midrop
-com.mipay.wallet.in
-com.xiaomi.payment
-com.miui.yellowpage
-com.miui.android.fashiongallery
-com.micredit.in
-com.miui.cloudservice.sysbase
-com.miui.cloudservice
-com.miui.cloudbackup
-com.miui.translation.kingsoft
-com.miui.translation.youdao
-com.miui.translation.xmcloud
-com.miui.translationservice
-com.miui.videoplayer
-com.xiaomi.joyose
-com.miui.enbbs
-com.duokan.phone.remotecontroller
-com.bsp.catchlog
-com.facebook.appmanager
-com.facebook.system
-com.android.browser
-com.google.android.inputmethod.latin
-com.google.android.marvin.talkback
-com.google.android.printservice.recommendation
-com.google.android.syncadapters.calendar
-com.google.android.tts
-com.mi.webkit.core
-com.mipay.wallet.id 
-com.miui.analytics
-com.miui.micloudsync
+com.google.android.syncadapters.contacts        # Google Contacts Sync
+com.google.android.partnersetup                 # Google Partner Setup
+com.android.vending                             # Google Play Store
+com.google.android.videos                       # Google Movies
+com.google.android.apps.photos                  # Google Photos
+com.google.android.apps.docs                    # Google Drive
+com.google.android.apps.tachyon                 # Google Meet
+com.google.android.apps.maps                    # Google Maps
+com.google.android.gm                           # Google mail 
+com.google.android.music                        # Google Music
+com.google.android.googlequicksearchbox         # Google search box
+com.google.android.inputmethod.pinyin           # Google Pinyin Input
+com.google.android.syncadapters.calendar        # Google Calendar Sync
+com.google.android.tts                          # Google Speech Services 
+com.google.android.inputmethod.latin            # Gboard - the Google Keyboard
+com.google.android.printservice.recommendation  # Google Print Service Recommendation Service
+com.google.android.gms                          # Google Play services - (IMPORTANT: disable policy under device-admin-apps for it to be uninstalled) Screenshot_6085.jpg  
+com.google.android.youtube                      # YouTube 
+com.google.android.feedback                     # Send Feeback
+com.xiaomi.glgm                                 # Xiaomi Games
+com.xiaomi.discover                             # Xiaomi Updater
+com.mi.android.globalminusscreen                # Xiaomi App Vault
+com.miui.enbbs                                  # Xiaomi MIUI Forum
+com.lbe.security.miui                           # Xiaomi Permissions
+com.xiaomi.xmsf                                 # Xiaomi service framework 
+com.xiaomi.location.fused                       # Xiaomi - Fused Location Provider
+com.miui.securitycore                           # Xiaomi - Security Core Component
+com.miui.powerkeeper                            # Xiaomi - Battery and Performance 
+com.xiaomi.midrop                               # Xiaomi - ShareMe: File sharing  
+com.xiaomi.powerchecker                         # Xiaomi - Power Detector
+com.xiaomi.mi_connect_service                   # Xiaomi - Mi Connect  
+com.miui.userguide                              # Xiaomi - User Guide  
+com.miui.wmsvc                                  # Xiaomi - WMService  
+com.xiaomi.mipicks                              # Xiaomi - GetApps  
+com.miui.weather2                               # Xiaomi - Weather   
+com.factory.mmigroup                            # MMIGroup By Samsung Electronics?
+com.facebook.services                           # Facebook Services
+com.facebook.appmanager                         # Facebook app manager
+com.facebook.system                             # Facebook app Installer
+com.miui.bugreport                              # Mi Bug Report
+com.miui.miservice                              # Mi Service
+com.miui.face                                   # Face unlock
+com.miui.hybrid                                 # MIUI Quick apps
+com.miui.hybrid.accessory                       # Accessories
+com.miui.msa.global                             # MSA - (MIUI System Ads) 
+com.mipay.wallet.id                             # Mi Pay id
+com.mipay.wallet.in                             # Mi Pay in
+com.micredit.in                                 # Mi Credit
+com.xiaomi.payment                              # Mi Coin
+com.miui.yellowpage                             # MIUI YellowPages. (Some kind of caller id app)
+com.miui.android.fashiongallery                 # MIUI Wallpaper Carousel
+com.miui.backup                                 # MIUI Backup
+com.miui.notes                                  # MIUI Notes
+com.miui.daemon                                 # MIUI Daemon
+com.miui.core                                   # MIUI SDK
+com.miui.micloudsync                            # MiCloudSync
+com.miui.cloudservice.sysbase                   # Mi Cloud
+com.miui.cloudbackup                            # Mi Cloud Backup
+com.miui.cloudservice                           # Mi Cloud Service
 com.xiaomi.micloud.sdk                          # Micloud SDK
+com.miui.player                                 # Mi Music
+com.xiaomi.miplay_client                        # Mi Play
+com.miui.videoplayer                            # Mi Video
+com.miui.cleanmaster                            # Mi Cleaner
+com.xiaomi.mirecycle                            # Mi Recycle
+com.duokan.phone.remotecontroller               # Mi Remote controller - for TV
+cn.wps.xiaomi.abroad.lite                       # Mi Doc Viewer (Powered by WPS) 
+com.miui.analytics                              # Mi Analytics
+com.mi.webkit.core                              # MiWebView
+com.bsp.catchlog                                # CatchLog (Loggenerator)
+com.android.browser                             # Default Browser
+com.google.android.marvin.talkback              # Android Accessibility Suite (Improtant for some people)
 com.miui.gallery                                # MIUI Gallerry - won't work without micloud sdk
-com.miui.touchassistant
-com.miui.wmsvc
-com.xiaomi.glgm
-com.xiaomi.mi_connect_service
-com.xiaomi.xmsf
-com.android.egg
-com.android.wallpaper.livepicker 
-com.android.wallpaperbackup
-com.miui.weather2
-com.android.bips 
-com.android.vending
-com.google.android.apps.maps                     # Google Maps
-com.google.android.gm                            # GMAIL - Application
-com.google.android.gms                           # Google Play services - (IMPORTANT: disable policy under device-admin-apps) Screenshot_6085.jpg  
-com.google.android.partnersetup
-com.google.android.syncadapters.contacts
-com.dsi.ant.server
-com.qualcomm.location
+com.miui.touchassistant                         # Quick ball (if touch buttons are broken)
+com.android.egg                                 # Android Easter Egg
+com.android.wallpaper.livepicker                # Android Wallpaper live picker
+com.android.wallpaperbackup                     # Android Wallpaper backup ?
+com.android.bips                                # Android Print Service ?
+com.android.stk                                 # SIM Toolkit
+com.dsi.ant.server                              # ANT HAL Service
+com.qualcomm.location                           # Qualcomm location service
+com.miui.global.packageinstaller                # MIUI's package installer extension (seems to ping out to Alibaba servers)
+org.codeaurora.ims                              # IMS - "handles wireless functions" (experience says it's not so critical for this device)
+com.android.camera                              # Camera - Running on background without reason (+Network activity I think)
+com.xiaomi.scanner                              # Mi QR Scanner
+com.android.email
 com.android.calendar
 com.android.providers.calendar
 com.android.providers.partnerbookmarks
@@ -89,26 +103,12 @@ com.qti.dpmserviceapp
 com.qti.confuridialer
 com.qti.qualcomm.deviceinfo
 org.codeaurora.bluetooth  
-cn.wps.xiaomi.abroad.lite                     # WPS Office. Has been flagged for years for malware. This was banned in India for a reason.
-com.miui.cleanmaster                          # Together with WPS Office, Cleaner Master was found to be affiliated with Cheetah Mobile, that included spyware and adware in their software.
-com.miui.player                               # Include if you don't use Xiaomi's music app.
-com.xiaomi.miplay_client                      # Mi Play. This is an unnecessary process that hasn't really been used for years.
-com.miui.powerkeeper
-com.xiaomi.powerchecker
-com.miui.securitycore
-com.xiaomi.discover                           # Xiaomi Updater
-com.lbe.security.miui                         # Xiaomi Permissions
-com.xiaomi.mirecycle
-com.miui.daemon
-com.miui.core
-com.android.stk
-com.xiaomi.location.fused
-com.miui.bugreport
+com.miui.translation.kingsoft
+com.miui.translation.youdao
+com.miui.translation.xmcloud
+com.miui.translationservice
+com.xiaomi.joyose
 com.google.android.configupdater
-com.miui.global.packageinstaller              # MIUI's package installer extension (seems to ping out to Alibaba servers)
-org.codeaurora.ims                            # IMS - "handles wireless functions" (experience says it's not so critical for this device)
-com.android.camera                            #  Camera - Running on background without reason (+Network activity I think)
-com.xiaomi.scanner                            #  Mi QR Scanner
 
 [INSTALL]
 com.simplemobiletools.gallery.pro      # Gallery
