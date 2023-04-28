@@ -1,9 +1,18 @@
 # Intro
 A *["Xiaomi Redmi 5A (riva)"](https://www.gsmarena.com/xiaomi_redmi_5a-8898.php) (Excessively tested)* debloating list for use within the [Hexapterygon-tool](https://github.com/GiorgosXou/hexapterygon) *(Disclaimer: I am not responsible for google play apps that may not work after :P)*
 
-# 💥 Results:
+# 💥 Results
 
 [Here](https://odysee.com/hexapterygon:9) you can see a brief demonstration of how this device performs right now under a lot of presure
+
+# ⚙️ Configure 
+Before running `hexapterygon` make sure you :
+- Disabled `find device` Under `Passwords & Security > Privacy > Device admin apps`
+- Under `Developer options`:
+- - Enabled `USB debugging`
+- - Enabled `USB debugging (Security settings)` 
+- - Enabled `Install via USB`
+
 
 # 🔍 Research
 ***⚠️ Disclaimer:*** [This is not yet fully documented, please refer to the actuall list for more informations](https://github.com/GiorgosXou/Our-Xiaomi-Redmi-5A-riva-debloating-list/blob/main/devices/Xiaomi%20Redmi%205A%20riva.txt). Don't trust everything listed bellow, things have been listed under huge forces of pressure of limited free time, based on my grouped browser-tabs and additional notes.
