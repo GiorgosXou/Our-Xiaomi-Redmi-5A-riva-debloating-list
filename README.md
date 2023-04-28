@@ -1,5 +1,5 @@
 # Intro
-A *"Xiaomi Redmi 5A (riva)" (Excessively tested)* debloating list for use within the [Hexapterygon-tool](https://github.com/GiorgosXou/hexapterygon) *(Disclaimer: I am not responsible for google play apps that may not work after :P)*
+A *["Xiaomi Redmi 5A (riva)"](https://www.gsmarena.com/xiaomi_redmi_5a-8898.php) (Excessively tested)* debloating list for use within the [Hexapterygon-tool](https://github.com/GiorgosXou/hexapterygon) *(Disclaimer: I am not responsible for google play apps that may not work after :P)*
 
 
 # 🔍 Research
