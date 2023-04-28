@@ -7,21 +7,22 @@ A *"Xiaomi Redmi 5A (riva)" (Excessively tested)* debloating list for use within
 
 |App Name |Package Name |Additional Context & references|
 |---|---|---|
-||com.android.providers.media|[1](https://forum.xda-developers.com/t/q-com-android-providers-media-what-is-this-xd.1336239/)|
+||com.miui.securitycenter|[🔍](https://forum.xda-developers.com/t/can-miui-security-center-be-removed.3897111/)|
+||com.miui.guardprovider|[🦠](https://research.checkpoint.com/2019/vulnerability-in-xiaomi-pre-installed-security-app/)|
+||com.miui.powerkeeper|[🦠](https://forum.xda-developers.com/t/psa-com-miui-powerkeeper-acts-like-a-malware-remove-it-trough-adb-for-increased-performance.4514455/)|
+|Xiaomi MIUI Forum|com.miui.enbbs|[🛒](https://www.apkmirror.com/apk/xiaomi-inc-2/xiaomi-miui-forum/xiaomi-miui-forum-2-0-3-release/xiaomi-miui-forum-2-0-3-android-apk-download/)|
+|MIUI Daemon|com.miui.daemon|[🔍](https://xiaomiui.net/what-is-the-miui-daemon-app-on-xiaomi-devices-1085/)|
+||com.xiaomi.finddevice|[🔍](https://forum.xda-developers.com/t/anybody-knows-how-to-disable-finddevice.3322341/#post-87580581)|
+|GetApps|com.xiaomi.mipicks|[🛒](https://apkcombo.com/getapps/com.xiaomi.mipicks/)|
+|Joyose|com.xiaomi.joyose|[🔍](https://xiaomiui.net/what-is-the-joyose-app-on-xiaomi-phones-14625/)|
+|MiWebView|com.mi.webkit.core|[🛒](https://www.apkmirror.com/apk/xiaomi-inc/miwebview/miwebview-1-41_fallback-release/miwebview-1-41_fallback-android-apk-download/)|
+|Mi Pay|com.mipay.wallet.id|[🛒](https://www.apkmirror.com/apk/xiaomi-miui/mi-pay-2/mi-pay-2-0-0-3-release/mi-pay-0-0-3-android-apk-download/)|
 ||org.codeaurora.ims|[3](https://www.reddit.com/r/Xiaomi/comments/jyps2q/orgcodeauroraims/), [2](https://www.reddit.com/r/OnePlus8T/comments/miiitd/what_is_that_orgcodeauroraims_if_anybody_knows/), [1](https://www.reddit.com/r/GooglePixel/comments/tde8mt/orgcodeauroraims_causing_several_issues/)|
 ||com.android.systemui|[1](https://stackoverflow.com/questions/29229474/is-it-safe-to-disable-com-android-systemui)|
 ||com.android.updater|[1](https://forum.xda-developers.com/t/do-not-disable-com-android-updater.4084635/)|
-||com.miui.guardprovider|[🦠](https://research.checkpoint.com/2019/vulnerability-in-xiaomi-pre-installed-security-app/)|
-|MIUI Daemon|com.miui.daemon|[🔍](https://xiaomiui.net/what-is-the-miui-daemon-app-on-xiaomi-devices-1085/)|
 ||com.qualcomm.qcrilmsgtunnel |[🔍]( https://www.reddit.com/r/Nexus5/comments/1r1em0/anyone_know_what_comqualcommqcrilmsgtunnel_is/ )|
 ||com.google.android.feedback|[🔍](https://stackoverflow.com/questions/10812432/how-to-use-send-feeback-feedbackactivity-in-android)|
-|GetApps|com.xiaomi.mipicks|[🛒](https://apkcombo.com/getapps/com.xiaomi.mipicks/)|
-|Joyose|com.xiaomi.joyose|[🔍](https://xiaomiui.net/what-is-the-joyose-app-on-xiaomi-phones-14625/)|
-|Xiaomi MIUI Forum|com.miui.enbbs|[🛒](https://www.apkmirror.com/apk/xiaomi-inc-2/xiaomi-miui-forum/xiaomi-miui-forum-2-0-3-release/xiaomi-miui-forum-2-0-3-android-apk-download/)|
-|MiWebView|com.mi.webkit.core|[🛒](https://www.apkmirror.com/apk/xiaomi-inc/miwebview/miwebview-1-41_fallback-release/miwebview-1-41_fallback-android-apk-download/)|
-|Mi Pay|com.mipay.wallet.id|[🛒](https://www.apkmirror.com/apk/xiaomi-miui/mi-pay-2/mi-pay-2-0-0-3-release/mi-pay-0-0-3-android-apk-download/)|
-||com.miui.powerkeeper|[🦠](https://forum.xda-developers.com/t/psa-com-miui-powerkeeper-acts-like-a-malware-remove-it-trough-adb-for-increased-performance.4514455/)|
-||com.xiaomi.finddevice|[🔍](https://forum.xda-developers.com/t/anybody-knows-how-to-disable-finddevice.3322341/#post-87580581)|
+||com.android.providers.media|[1](https://forum.xda-developers.com/t/q-com-android-providers-media-what-is-this-xd.1336239/)|
 |Google Drive|com.google.android.apps.docs|[🛒](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)|
 |under construction 🛠️🏗️|under construction 🛠️🏗️|under construction 🛠️🏗️|
 
