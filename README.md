@@ -80,6 +80,8 @@ Before running `hexapterygon` make sure you :
 - - [\[Ultimate Guide\]\[Riva\] Unlock, Root, TWRP Guide for Redmi 5A [6/3/2018]](https://forum.xda-developers.com/t/ultimate-guide-riva-unlock-root-twrp-guide-for-redmi-5a-6-3-2018.3759470/)
 - ***Lists:***
 - [Xiaomi Super bloatware List 2020]( https://lucacesarano.medium.com/xiaomi-super-bloatware-list-2020-db38ace9e9e1 ) *(Additional context)*
+- ***Other:***
+- - [MicroG - A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.](https://microg.org/download.html)
 
 
 
