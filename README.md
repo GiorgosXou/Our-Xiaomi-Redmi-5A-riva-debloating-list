@@ -63,6 +63,7 @@ Before running `hexapterygon` make sure you :
 - ***MIUI:***
 - - ✨ [Removing all unnecessary bloatware from Xiaomi MIUI 11/12 (Android 9/10) without root](https://selivan.github.io/2020/02/25/removing-bloatware-from-xiaomi-miui-android.html)
 - - ✨ [MIUI 13 System Apps](https://gist.github.com/mcxiaoke/0a4c639d04e94c45eb6c787c0f98940a) <sup>[backup](https://gist.github.com/GiorgosXou/9b5efb522be1a3a398b28a416a522c8b)</sup>
+- - ✨[Debloating (removing bloatware) applications from MIUI](https://devcondition.com/article/removing-unneeded-miui-applications/)
 - - [\[ADB DEBLOAT\] MIUI 12.0.8 List](https://forum.xda-developers.com/t/adb-debloat-miui-12-0-8-list.4160091/)
 - - [Debloating MIUI without Root Access (Manual Method)](https://forum.xda-developers.com/t/debloating-miui-without-root-access-manual-method.4149707/)
 - - [Xiaomi Bloatware List (Safe to Remove) on MIUI 14/13/12](https://technastic.com/xiaomi-bloatware-list-miui/)
