@@ -90,6 +90,7 @@ com.android.providers.calendar
 com.android.providers.partnerbookmarks
 com.qualcomm.embms
 com.qualcomm.qti.qmmi
+com.qualcomm.qti.StatsPollManager
 com.qualcomm.qti.callfeaturessetting
 com.qualcomm.qti.lpa
 com.qualcomm.qti.qtisystemservice

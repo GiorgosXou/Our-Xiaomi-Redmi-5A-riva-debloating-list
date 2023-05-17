@@ -32,6 +32,7 @@ Before running `hexapterygon` make sure you :
 ||org.codeaurora.ims|[3](https://www.reddit.com/r/Xiaomi/comments/jyps2q/orgcodeauroraims/), [2](https://www.reddit.com/r/OnePlus8T/comments/miiitd/what_is_that_orgcodeauroraims_if_anybody_knows/), [1](https://www.reddit.com/r/GooglePixel/comments/tde8mt/orgcodeauroraims_causing_several_issues/)|
 ||com.android.systemui|[1](https://stackoverflow.com/questions/29229474/is-it-safe-to-disable-com-android-systemui)|
 ||com.android.updater|[1](https://forum.xda-developers.com/t/do-not-disable-com-android-updater.4084635/)|
+||com.qualcomm.qti.StatsPollManager|[🔍](https://devcondition.com/article/removing-unneeded-miui-applications/)|
 ||com.qualcomm.qcrilmsgtunnel |[🔍]( https://www.reddit.com/r/Nexus5/comments/1r1em0/anyone_know_what_comqualcommqcrilmsgtunnel_is/ )|
 ||com.google.android.feedback|[🔍](https://stackoverflow.com/questions/10812432/how-to-use-send-feeback-feedbackactivity-in-android)|
 ||com.android.providers.media|[1](https://forum.xda-developers.com/t/q-com-android-providers-media-what-is-this-xd.1336239/)|
