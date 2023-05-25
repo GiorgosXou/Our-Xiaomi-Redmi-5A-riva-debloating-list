@@ -2,7 +2,7 @@
 UNINSTALLS:
 ─ Xiaomi's services, analytics, ads, apps, etc.
 ─ Google's services & apps
-─ qualcomm & android  apps
+─ qualcomm & android apps
 ─ Facebook services
 IMPORTANT:
 ─ Accessibility Suite gets uninstalled
