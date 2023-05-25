@@ -1,9 +1,11 @@
 [SUMMARY]
-UNINSTALLS many spywares such as:
+UNINSTALLS:
 ─ Xiaomi's services, analytics, ads, apps, etc.
-─ Google's play services & apps
-─ qualcomm & android apps
+─ Google's services & apps
+─ qualcomm & android  apps
 ─ Facebook services
+IMPORTANT:
+─ Accessibility Suite gets uninstalled
 INSTALLS:
 ─ FOSS: Gallery, Camera, Maps, YouTube, etc.
 DISABLES:
