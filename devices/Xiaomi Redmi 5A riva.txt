@@ -1,14 +1,14 @@
 [SUMMARY]
 UNINSTALLS many spywares such as:
-- Xiaomi's MI-MIUI services, analytics, ads, apps, etc.
-- Google's play services & apps
-- qualcomm & android apps
-- Facebook services
+─ Xiaomi's services, analytics, ads, apps, etc.
+─ Google's play services & apps
+─ qualcomm & android apps
+─ Facebook services
 INSTALLS:
-- FOSS: Gallery, Camera, Maps, YouTube, etc.
+─ FOSS: Gallery, Camera, Maps, YouTube, etc.
 DISABLES:
-- Unnecessary slow animations
-
+─ Unnecessary slow animations
+(For more info look into the actual list)
 
 [UNINSTALL]
 com.google.android.syncadapters.contacts        # Google Contacts Sync
