@@ -140,6 +140,7 @@ org.schabi.newpipe                     # NewPipe - YouTube client
 im.vector.app                          # Element - Matrix client
 com.termux                             # Termux - Terminal emulator
 org.fdroid.fdroid                      # F-Droid - app store
+com.aurora.store                       # Aurora - FOSS Play Store
 com.tengu.sharetoclipboard             # Share to clipboard
 com.secuso.privacyFriendlyCodeScanner  # QR Scanner
 
