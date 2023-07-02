@@ -97,6 +97,7 @@ com.qualcomm.location                           # Qualcomm location service
 com.miui.global.packageinstaller                # MIUI's package installer extension (seems to ping out to Alibaba servers)
 org.codeaurora.ims                              # IMS - "handles wireless functions" (experience says it's not so critical for this device)
 com.android.camera                              # Camera - Running on background without reason (+Network activity I think)
+com.android.soundrecorder                       # Recorder - Sound recorder
 com.xiaomi.scanner                              # Mi QR Scanner
 com.android.email
 com.android.calendar
