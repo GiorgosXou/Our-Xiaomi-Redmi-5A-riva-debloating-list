@@ -132,6 +132,7 @@ com.simplemobiletools.calendar.pro     # Calendar
 eu.faircode.netguard                   # NetGuard
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
+com.simplemobiletools.voicerecorder    # Voice recorder
 org.dslul.openboard.inputmethod.latin  # OpenBoard - Keyboard
 com.artifex.mupdf.viewer.app           # MuPDF viewer
 com.mhss.app.mybrain                   # My Brain - Notes
