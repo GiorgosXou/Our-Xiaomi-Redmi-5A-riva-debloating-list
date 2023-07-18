@@ -99,6 +99,7 @@ org.codeaurora.ims                              # IMS - "handles wireless functi
 com.android.camera                              # Camera - Running on background without reason (+Network activity I think)
 com.android.soundrecorder                       # Recorder - Sound recorder
 com.xiaomi.scanner                              # Mi QR Scanner
+com.android.deskclock                           # Clock
 com.android.email
 com.android.calendar
 com.android.providers.calendar
