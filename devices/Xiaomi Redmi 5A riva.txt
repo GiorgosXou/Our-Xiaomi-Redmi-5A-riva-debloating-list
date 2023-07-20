@@ -153,6 +153,6 @@ com.secuso.privacyFriendlyCodeScanner  # QR Scanner
 [SHELL]
 settings put global window_animation_scale 0     # Setting "Window animation scale" to 0
 settings put global transition_animation_scale 0 # Setting "Transition animation scale" to 0
-settings put global animator_duration_scale 1    # Setting "Animator duration scale" to 0
+settings put global animator_duration_scale .5   # Setting "Animator duration scale" to 0
 settings put secure accessibility_display_daltonizer 0 # Setting screen to grey ("Simulate color space")
 echo "GoTo: https://www.bromite.org/fdroid and add Bromite to F-Droid via the QR-Scanner-app" # Extra Informations:
