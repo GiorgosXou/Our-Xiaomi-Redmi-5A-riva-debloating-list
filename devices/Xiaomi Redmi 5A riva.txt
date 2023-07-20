@@ -100,7 +100,6 @@ com.android.camera                              # Camera - Running on background
 com.android.soundrecorder                       # Recorder - Sound recorder
 com.xiaomi.scanner                              # Mi QR Scanner
 com.android.deskclock                           # Clock
-com.android.mms                                 # Messaging App
 com.android.email
 com.android.calendar
 com.android.providers.calendar
@@ -151,6 +150,7 @@ com.tengu.sharetoclipboard             # Share to clipboard
 com.secuso.privacyFriendlyCodeScanner  # QR Scanner
 
 [SHELL]
+pm disable-user --user 0 com.android.mms         # Disabling uninstallable Messenging app 
 settings put global window_animation_scale 0     # Setting "Window animation scale" to 0
 settings put global transition_animation_scale 0 # Setting "Transition animation scale" to 0
 settings put global animator_duration_scale .5   # Setting "Animator duration scale" to 0
