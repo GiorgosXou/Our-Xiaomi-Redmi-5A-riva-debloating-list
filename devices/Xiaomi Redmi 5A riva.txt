@@ -100,7 +100,7 @@ com.android.camera                              # Camera - Running on background
 com.android.soundrecorder                       # Recorder - Sound recorder
 com.xiaomi.scanner                              # Mi QR Scanner
 com.android.deskclock                           # Clock
-com.android.providers.downloads.ui              # Downloads UI
+com.android.providers.downloads.ui              # Downloads - UI
 com.android.email
 com.android.calendar
 com.android.providers.calendar
