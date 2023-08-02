@@ -27,6 +27,7 @@ com.google.android.googlequicksearchbox         # Google search box
 com.google.android.inputmethod.pinyin           # Google Pinyin Input
 com.google.android.syncadapters.calendar        # Google Calendar Sync
 com.google.android.tts                          # Google Speech Services 
+com.google.android.backuptransport              # Google Backaup Transport
 com.google.android.inputmethod.latin            # Gboard - the Google Keyboard
 com.google.android.printservice.recommendation  # Google Print Service Recommendation Service
 com.google.android.gms                          # Google Play services - (IMPORTANT: disable policy under device-admin-apps for it to be uninstalled) Screenshot_6085.jpg  
