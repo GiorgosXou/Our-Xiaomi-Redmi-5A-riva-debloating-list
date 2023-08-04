@@ -44,6 +44,7 @@ com.miui.securitycore                           # Xiaomi - Security Core Compone
 com.miui.powerkeeper                            # Xiaomi - Battery and Performance 
 com.xiaomi.midrop                               # Xiaomi - ShareMe: File sharing  
 com.xiaomi.powerchecker                         # Xiaomi - Power Detector
+com.mi.android.globalFileexplorer               # Xiaomi - File Manager
 com.xiaomi.mi_connect_service                   # Xiaomi - Mi Connect  
 com.miui.userguide                              # Xiaomi - User Guide  
 com.miui.wmsvc                                  # Xiaomi - WMService  
