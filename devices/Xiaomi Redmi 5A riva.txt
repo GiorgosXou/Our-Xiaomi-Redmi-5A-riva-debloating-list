@@ -50,6 +50,7 @@ com.miui.userguide                              # Xiaomi - User Guide
 com.miui.wmsvc                                  # Xiaomi - WMService  
 com.xiaomi.mipicks                              # Xiaomi - GetApps  
 com.miui.weather2                               # Xiaomi - Weather   
+com.miui.compass                                # Xiaomi - Compass
 com.factory.mmigroup                            # MMIGroup By Samsung Electronics?
 com.facebook.services                           # Facebook Services
 com.facebook.appmanager                         # Facebook app manager
@@ -80,6 +81,7 @@ com.xiaomi.miplay_client                        # Mi Play
 com.miui.videoplayer                            # Mi Video
 com.miui.cleanmaster                            # Mi Cleaner
 com.xiaomi.mirecycle                            # Mi Recycle
+com.miui.calculator                             # Mi Calculator
 com.duokan.phone.remotecontroller               # Mi Remote controller - for TV
 cn.wps.xiaomi.abroad.lite                       # Mi Doc Viewer (Powered by WPS) 
 com.miui.analytics                              # Mi Analytics
