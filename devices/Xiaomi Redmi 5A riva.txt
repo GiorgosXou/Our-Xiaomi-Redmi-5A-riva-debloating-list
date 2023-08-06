@@ -136,8 +136,10 @@ com.google.android.configupdater
 com.simplemobiletools.clock            # Clock
 com.simplemobiletools.dialer           # Dialer
 com.simplemobiletools.gallery.pro      # Gallery
+danielmeek32.compass                   # Compass
 com.simplemobiletools.calendar.pro     # Calendar 
 eu.faircode.netguard                   # NetGuard
+com.simplemobiletools.calculator       # Calculator
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
 com.simplemobiletools.filemanager.pro  # File Manager
