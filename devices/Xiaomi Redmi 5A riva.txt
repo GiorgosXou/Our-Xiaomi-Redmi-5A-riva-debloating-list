@@ -138,6 +138,7 @@ com.simplemobiletools.dialer           # Dialer
 com.simplemobiletools.gallery.pro      # Gallery
 danielmeek32.compass                   # Compass
 com.simplemobiletools.calendar.pro     # Calendar 
+com.simplemobiletools.contacts.pro     # Contacts
 eu.faircode.netguard                   # NetGuard
 com.simplemobiletools.calculator       # Calculator
 net.sourceforge.opencamera             # Open Camera
