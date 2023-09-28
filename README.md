@@ -43,6 +43,10 @@ Before running `hexapterygon` make sure you :
 
 
 **🔗 Links related to:**
+- ***F-Droid:***
+- - ***Additional App Repos:***
+- - - [Bromite - chromium](https://www.bromite.org/fdroid)
+- - - [Signal](https://www.twinhelix.com/apps/signal-foss/) <sup><sub>Without Google services</sub></sup>
 - ***ADB:***
 - - ***Python Libraries:***
 - - - [pure-python-adb *(Currently using)*](https://github.com/Swind/pure-python-adb)
