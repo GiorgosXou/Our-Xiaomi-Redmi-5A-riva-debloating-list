@@ -51,6 +51,7 @@ com.miui.wmsvc                                  # Xiaomi - WMService
 com.xiaomi.mipicks                              # Xiaomi - GetApps  
 com.miui.weather2                               # Xiaomi - Weather   
 com.miui.compass                                # Xiaomi - Compass
+com.xiaomi.account                              # Xiaomi - Account
 com.factory.mmigroup                            # MMIGroup By Samsung Electronics?
 com.facebook.services                           # Facebook Services
 com.facebook.appmanager                         # Facebook app manager
