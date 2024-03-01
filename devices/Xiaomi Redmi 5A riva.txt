@@ -134,18 +134,18 @@ com.google.android.configupdater
 
 [INSTALL]
 com.simplemobiletools.clock            # Clock
-com.simplemobiletools.dialer           # Dialer
-com.simplemobiletools.gallery.pro      # Gallery
+org.fossify.phone                      # Dialer
+org.fossify.gallery                    # Gallery
 danielmeek32.compass                   # Compass
-com.simplemobiletools.calendar.pro     # Calendar 
-com.simplemobiletools.contacts.pro     # Contacts
+org.fossify.calendar                   # Calendar
+org.fossify.contacts                   # Contacts
 eu.faircode.netguard                   # NetGuard
 com.simplemobiletools.calculator       # Calculator
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
-com.simplemobiletools.filemanager.pro  # File Manager
-com.simplemobiletools.voicerecorder    # Voice recorder
-com.simplemobiletools.smsmessenger     # Simple SMS Messenger
+org.fossify.filemanager                # File Manager
+org.fossify.messages                   # SMS Messenger
+org.fossify.voicerecorder              # Voice recorder
 org.dslul.openboard.inputmethod.latin  # OpenBoard - Keyboard
 com.mhss.app.mybrain                   # My Brain - Notes
 org.videolan.vlc                       # VLC - video player
