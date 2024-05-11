@@ -141,6 +141,7 @@ danielmeek32.compass                   # Compass
 org.fossify.calendar                   # Calendar
 org.fossify.contacts                   # Contacts
 eu.faircode.netguard                   # NetGuard
+us.spotco.ir_remote                    # IR Remote
 com.simplemobiletools.calculator       # Calculator
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
