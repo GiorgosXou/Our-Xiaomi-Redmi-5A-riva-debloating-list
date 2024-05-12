@@ -120,6 +120,7 @@ com.qualcomm.qti.uim
 com.qualcomm.qti.confdialer
 com.qualcomm.qti.services.secureui
 com.qualcomm.qti.auth.fidocryptoservice
+com.qualcomm.qti.uceShimService
 com.qti.qualcomm.datastatusnotification
 com.qti.xdivert
 com.qti.dpmserviceapp
