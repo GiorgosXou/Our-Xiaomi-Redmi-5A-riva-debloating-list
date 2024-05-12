@@ -62,6 +62,7 @@ com.miui.face                                   # Face unlock
 com.miui.hybrid                                 # MIUI Quick apps
 com.miui.hybrid.accessory                       # Accessories
 com.miui.msa.global                             # MSA - (MIUI System Ads) 
+com.miui.vsimcore                               # VsimCore
 com.mipay.wallet.id                             # Mi Pay id
 com.mipay.wallet.in                             # Mi Pay in
 com.micredit.in                                 # Mi Credit
