@@ -169,6 +169,14 @@ settings put global window_animation_scale 0                   # Setting "Window
 settings put global transition_animation_scale 0               # Setting "Transition animation scale" to 0
 settings put global animator_duration_scale .5                 # Setting "Animator duration scale" to 0.5
 settings put secure accessibility_display_daltonizer 0         # Setting screen to grey ("Simulate color space")
+rm -rf storage/self/primary/Android/data/com.xiaomi.finddevice # Remove "Android/data/com.xiaomi.finddevice" directory
+rm -rf storage/self/primary/Android/data/com.milink.service    # Remove "Android/data/com.milink.service"    directory
+rm -rf storage/self/primary/Android/data/com.android.updater   # Remove "Android/data/com.android.updater"   directory
+rm -rf storage/self/primary/MIUI/debug_log                     # Remove "MIUI/debug_log"                     directory
+touch storage/self/primary/Android/data/com.xiaomi.finddevice  # Create file "com.xiaomi.finddevice", prevent logging\memory-wearing
+touch storage/self/primary/Android/data/com.milink.service     # Create file "com.milink.service"   , prevent logging\memory-wearing
+touch storage/self/primary/Android/data/com.android.updater    # Create file "com.android.updater"  , prevent logging\memory-wearing
+touch storage/self/primary/MIUI/debug_log                      # Create file "MIUI/debug_log"       , prevent logging\memory-wearing
 echo "GoTo: https://www.bromite.org/fdroid and add Bromite to F-Droid via the QR-Scanner-app" # Extra Informations:
 echo "Note: Removing `com.xiaomi.account` prevents you from switching Install-via-USB permission"
 echo "Note: Restore any app like `cmd package install-existing com.xiaomi.account` "
