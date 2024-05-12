@@ -163,12 +163,12 @@ com.tengu.sharetoclipboard             # Share to clipboard
 com.secuso.privacyFriendlyCodeScanner  # QR Scanner
 
 [SHELL]
-pm disable-user --user 0 com.android.mms         # Disabling uninstallable "Messenging app"
-pm disable-user --user 0 com.android.contacts    # Disabling uninstallable "Contacts and dialer"
-settings put global window_animation_scale 0     # Setting "Window animation scale" to 0
-settings put global transition_animation_scale 0 # Setting "Transition animation scale" to 0
-settings put global animator_duration_scale .5   # Setting "Animator duration scale" to 0.5
-settings put secure accessibility_display_daltonizer 0 # Setting screen to grey ("Simulate color space")
+pm disable-user --user 0 com.android.mms                       # Disabling uninstallable "Messenging app"
+pm disable-user --user 0 com.android.contacts                  # Disabling uninstallable "Contacts and dialer"
+settings put global window_animation_scale 0                   # Setting "Window animation scale" to 0
+settings put global transition_animation_scale 0               # Setting "Transition animation scale" to 0
+settings put global animator_duration_scale .5                 # Setting "Animator duration scale" to 0.5
+settings put secure accessibility_display_daltonizer 0         # Setting screen to grey ("Simulate color space")
 echo "GoTo: https://www.bromite.org/fdroid and add Bromite to F-Droid via the QR-Scanner-app" # Extra Informations:
 echo "Note: Removing `com.xiaomi.account` prevents you from switching Install-via-USB permission"
 echo "Note: Restore any app like `cmd package install-existing com.xiaomi.account` "
