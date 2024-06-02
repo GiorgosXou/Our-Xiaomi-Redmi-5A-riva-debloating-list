@@ -76,7 +76,8 @@ Before running `hexapterygon` make sure you :
 - - ***Potential:***
 - - - [CVE-2019-2215 0day local Android privilege escalation exploit](https://forum.xda-developers.com/t/cve-2019-2215-0day-local-android-privilege-escalation-exploit.3981873/)
 - - ***Rooting:***
-- - - ***Potential:***
+- - - NOT TESTED | [How to Root Xiaomi Redmi 5A Without PC & Via Magisk](https://www.thenextdroid.com/root-xiaomi-redmi-5a-without-pc-via-magisk/#Method_1_Root_Xiaomi_Redmi_5A_With_KingRoot) 
+- - - ***Related:***
 - - - - ["Root" via dirtyc0w privilege escalation exploit (automation script) / Android (32 bit)](https://gist.github.com/Arinerron/0e99d69d70a778ca13a0087fa6fdfd80)
 - - - - [CVE-2016-5195 (dirty cow/dirtycow/dirtyc0w) proof of concept for Android](https://github.com/timwr/CVE-2016-5195)
 - - - - [VIKIROOT - CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow](https://github.com/hyln9/VIKIROOT)
@@ -86,6 +87,7 @@ Before running `hexapterygon` make sure you :
 - ***Lists:***
 - [Xiaomi Super bloatware List 2020]( https://lucacesarano.medium.com/xiaomi-super-bloatware-list-2020-db38ace9e9e1 ) *(Additional context)*
 - ***Other:***
+- - [LineageOS for Redmi 5A](https://wiki.lineageos.org/devices/Mi8917/variant2/)
 - - [MicroG - A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.](https://microg.org/download.html)
 
 
