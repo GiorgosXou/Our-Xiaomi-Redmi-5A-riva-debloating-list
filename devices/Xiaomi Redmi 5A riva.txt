@@ -67,6 +67,7 @@ com.mipay.wallet.id                             # Mi Pay id
 com.mipay.wallet.in                             # Mi Pay in
 com.micredit.in                                 # Mi Credit
 com.xiaomi.payment                              # Mi Coin
+com.miui.audioeffect                            # MIUI Audio equalizer from "sound & vibration" settings
 com.miui.yellowpage                             # MIUI YellowPages. (Some kind of caller id app)
 com.miui.android.fashiongallery                 # MIUI Wallpaper Carousel
 com.miui.backup                                 # MIUI Backup
