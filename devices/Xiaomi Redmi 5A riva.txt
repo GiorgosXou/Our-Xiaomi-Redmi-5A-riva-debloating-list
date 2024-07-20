@@ -168,7 +168,7 @@ pm disable-user --user 0 com.android.mms                       # Disabling unins
 pm disable-user --user 0 com.android.contacts                  # Disabling uninstallable "Contacts and dialer"
 settings put global window_animation_scale 0                   # Setting "Window animation scale" to 0
 settings put global transition_animation_scale 0               # Setting "Transition animation scale" to 0
-settings put global animator_duration_scale .5                 # Setting "Animator duration scale" to 0.5
+settings put global animator_duration_scale 0                  # Setting "Animator duration scale" to 0
 settings put secure accessibility_display_daltonizer 0         # Setting screen to grey ("Simulate color space")
 rm -rf storage/self/primary/Android/data/com.xiaomi.finddevice # Remove "Android/data/com.xiaomi.finddevice" directory
 rm -rf storage/self/primary/Android/data/com.milink.service    # Remove "Android/data/com.milink.service"    directory
