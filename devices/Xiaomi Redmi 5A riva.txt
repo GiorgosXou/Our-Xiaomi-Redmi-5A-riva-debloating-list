@@ -121,7 +121,6 @@ com.qualcomm.qti.StatsPollManager
 com.qualcomm.qti.callfeaturessetting
 com.qualcomm.qti.lpa
 com.qualcomm.qti.qtisystemservice
-com.qualcomm.qti.telephonyservice
 com.qualcomm.qti.uim
 com.qualcomm.qti.confdialer
 com.qualcomm.qti.services.secureui
