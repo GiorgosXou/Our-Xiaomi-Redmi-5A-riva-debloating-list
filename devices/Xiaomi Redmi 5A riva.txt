@@ -109,6 +109,7 @@ com.xiaomi.scanner                              # Mi QR Scanner
 com.android.deskclock                           # Clock
 com.android.providers.downloads.ui              # Downloads - UI
 com.quicinc.cne.CNEService                      # Smart Network Switch (?)
+com.android.mms.service                         # Android - MMS service
 com.android.email
 com.android.calendar
 com.android.providers.calendar
