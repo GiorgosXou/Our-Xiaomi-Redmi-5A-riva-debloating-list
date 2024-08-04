@@ -1,4 +1,5 @@
 [SUMMARY]
+─ Enables dark-theme
 UNINSTALLS:
 ─ Xiaomi's services, analytics, ads, apps, etc.
 ─ Google's services & apps
@@ -169,6 +170,7 @@ com.secuso.privacyFriendlyCodeScanner  # QR Scanner
 [SHELL]
 pm disable-user --user 0 com.android.mms                       # Disabling uninstallable "Messenging app"
 pm disable-user --user 0 com.android.contacts                  # Disabling uninstallable "Contacts and dialer"
+settings put secure ui_night_mode 2                            # Setting UI Dark theme mode (reboot to take place)
 settings put global window_animation_scale 0                   # Setting "Window animation scale" to 0
 settings put global transition_animation_scale 0               # Setting "Transition animation scale" to 0
 settings put global animator_duration_scale 0                  # Setting "Animator duration scale" to 0
