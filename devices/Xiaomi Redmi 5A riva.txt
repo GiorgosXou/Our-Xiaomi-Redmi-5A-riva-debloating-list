@@ -7,7 +7,7 @@ UNINSTALLS:
 ─ Facebook services
 IMPORTANT:
 ─ Accessibility Suite gets uninstalled
-- Uninstalls Android MMS and calendar providers
+─ Uninstalls Android MMS and calendar providers
 INSTALLS:
 ─ FOSS: Calendar, Gallery, Camera, Maps, YouTube, etc.
 DISABLES:
