@@ -40,11 +40,15 @@ com.xiaomi.discover                             # Xiaomi Updater
 com.mi.android.globalminusscreen                # Xiaomi App Vault
 com.miui.enbbs                                  # Xiaomi MIUI Forum
 com.lbe.security.miui                           # Xiaomi Permissions
+com.miui.system                                 # Xiaomi Smart Service
 com.xiaomi.xmsf                                 # Xiaomi service framework 
+com.miui.securityadd                            # Xiaomi System service plugin
+com.miui.guardprovider                          # Xiaomi - System security components
 com.xiaomi.location.fused                       # Xiaomi - Fused Location Provider
 com.miui.securitycore                           # Xiaomi - Security Core Component
 com.miui.powerkeeper                            # Xiaomi - Battery and Performance 
 com.xiaomi.midrop                               # Xiaomi - ShareMe: File sharing  
+com.wt.secret_code_manager                      # Xiaomi - secret_code_manager
 com.xiaomi.powerchecker                         # Xiaomi - Power Detector
 com.mi.android.globalFileexplorer               # Xiaomi - File Manager
 com.xiaomi.mi_connect_service                   # Xiaomi - Mi Connect  
@@ -72,10 +76,13 @@ com.xiaomi.payment                              # Mi Coin
 com.miui.audioeffect                            # MIUI Audio equalizer from "sound & vibration" settings
 com.miui.yellowpage                             # MIUI YellowPages. (Some kind of caller id app)
 com.miui.android.fashiongallery                 # MIUI Wallpaper Carousel
+com.xiaomi.bluetooth                            # MIUI Bluetooth
+com.miui.antispam                               # MIUI Antispam
 com.miui.backup                                 # MIUI Backup
 com.miui.notes                                  # MIUI Notes
 com.miui.daemon                                 # MIUI Daemon
 com.miui.core                                   # MIUI SDK
+com.miui.rom                                    # MIUI ROM
 com.miui.micloudsync                            # MiCloudSync
 com.miui.cloudservice.sysbase                   # Mi Cloud
 com.miui.cloudbackup                            # Mi Cloud Backup
@@ -116,6 +123,7 @@ com.android.email
 com.android.calendar
 com.android.providers.calendar
 com.android.providers.partnerbookmarks
+com.qualcomm.uimremoteclient
 com.qualcomm.embms
 com.qualcomm.qti.qmmi
 com.qualcomm.qti.StatsPollManager
@@ -137,6 +145,9 @@ com.miui.translation.kingsoft
 com.miui.translation.youdao
 com.miui.translation.xmcloud
 com.miui.translationservice
+com.miui.systemui.carriers.overlay
+com.miui.smsextra
+com.miui.freeform
 com.xiaomi.joyose
 com.google.android.configupdater
 
