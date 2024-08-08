@@ -152,6 +152,7 @@ com.xiaomi.joyose
 com.google.android.configupdater
 
 [INSTALL]
+com.fsck.k9                            # Mail
 com.simplemobiletools.clock            # Clock
 org.fossify.phone                      # Dialer
 org.fossify.gallery                    # Gallery
