@@ -37,6 +37,7 @@ com.google.android.youtube                      # YouTube
 com.google.android.feedback                     # Send Feeback
 com.xiaomi.glgm                                 # Xiaomi Games
 com.xiaomi.discover                             # Xiaomi Updater
+com.xiaomi.misettings                           # Xiaomi Settings
 com.mi.android.globalminusscreen                # Xiaomi App Vault
 com.miui.enbbs                                  # Xiaomi MIUI Forum
 com.lbe.security.miui                           # Xiaomi Permissions
