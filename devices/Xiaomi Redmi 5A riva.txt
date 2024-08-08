@@ -75,6 +75,7 @@ com.micredit.in                                 # Mi Credit
 com.xiaomi.payment                              # Mi Coin
 com.miui.audioeffect                            # MIUI Audio equalizer from "sound & vibration" settings
 com.miui.yellowpage                             # MIUI YellowPages. (Some kind of caller id app)
+com.xiaomi.providers.appindex                   # MIUI Settings (appindex)
 com.miui.android.fashiongallery                 # MIUI Wallpaper Carousel
 com.xiaomi.bluetooth                            # MIUI Bluetooth
 com.miui.antispam                               # MIUI Antispam
