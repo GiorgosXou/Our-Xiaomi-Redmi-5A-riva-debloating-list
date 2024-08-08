@@ -171,6 +171,7 @@ app.organicmaps                        # Organic Maps
 org.fossify.filemanager                # File Manager
 org.fossify.messages                   # SMS Messenger
 org.fossify.voicerecorder              # Voice recorder
+info.dvkr.screenstream                 # Screen Casting
 org.dslul.openboard.inputmethod.latin  # OpenBoard - Keyboard
 com.mhss.app.mybrain                   # My Brain - Notes
 org.videolan.vlc                       # VLC - video player
