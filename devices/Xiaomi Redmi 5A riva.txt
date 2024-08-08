@@ -149,6 +149,7 @@ org.fossify.calendar                   # Calendar
 org.fossify.contacts                   # Contacts
 eu.faircode.netguard                   # NetGuard
 us.spotco.ir_remote                    # IR Remote
+com.artifex.mupdf.mini.app             # PDF Viewer
 com.simplemobiletools.calculator       # Calculator
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
