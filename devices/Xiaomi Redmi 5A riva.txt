@@ -44,6 +44,7 @@ com.lbe.security.miui                           # Xiaomi Permissions
 com.miui.system                                 # Xiaomi Smart Service
 com.xiaomi.xmsf                                 # Xiaomi service framework 
 com.miui.securityadd                            # Xiaomi System service plugin
+com.xiaomi.simactivate.service                  # Xiaomi SIM Activation Service
 com.xiaomi.location.fused                       # Xiaomi - Fused Location Provider
 com.miui.securitycore                           # Xiaomi - Security Core Component
 com.miui.powerkeeper                            # Xiaomi - Battery and Performance 
