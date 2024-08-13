@@ -40,6 +40,7 @@ com.xiaomi.discover                             # Xiaomi Updater
 com.xiaomi.misettings                           # Xiaomi Settings
 com.mi.android.globalminusscreen                # Xiaomi App Vault
 com.miui.enbbs                                  # Xiaomi MIUI Forum
+com.mi.globallayout                             # Xiaomi HomeLayout
 com.lbe.security.miui                           # Xiaomi Permissions
 com.miui.system                                 # Xiaomi Smart Service
 com.miui.notification                           # Xiaomi Notifications
