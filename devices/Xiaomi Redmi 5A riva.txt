@@ -42,6 +42,7 @@ com.mi.android.globalminusscreen                # Xiaomi App Vault
 com.miui.enbbs                                  # Xiaomi MIUI Forum
 com.lbe.security.miui                           # Xiaomi Permissions
 com.miui.system                                 # Xiaomi Smart Service
+com.miui.notification                           # Xiaomi Notifications
 com.xiaomi.xmsf                                 # Xiaomi service framework 
 com.miui.securityadd                            # Xiaomi System service plugin
 com.xiaomi.simactivate.service                  # Xiaomi SIM Activation Service
