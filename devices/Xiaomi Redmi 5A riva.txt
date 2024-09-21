@@ -204,4 +204,4 @@ touch storage/self/primary/Android/data/com.android.updater    # Create file "co
 touch storage/self/primary/MIUI/debug_log                      # Create file "MIUI/debug_log"       , prevent logging\memory-wearing
 echo "GoTo: https://github.com/uazo/cromite#f-droid and add Cromite to F-Droid via the repo-url" # Extra Informations:
 echo "Note: Removing `com.xiaomi.account` prevents you from switching Install-via-USB permission"
-echo "Note: Restore any app like `cmd package install-existing com.xiaomi.account` "
+echo "Note: Restore any app like 'cmd package install-existing com.xiaomi.account' "
