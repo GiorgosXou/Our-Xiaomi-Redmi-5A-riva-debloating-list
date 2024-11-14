@@ -193,7 +193,6 @@ settings put secure ui_night_mode 2                            # Setting UI Dark
 settings put global window_animation_scale 0                   # Setting "Window animation scale" to 0
 settings put global transition_animation_scale 0               # Setting "Transition animation scale" to 0
 settings put global animator_duration_scale 0                  # Setting "Animator duration scale" to 0
-settings put secure accessibility_display_daltonizer 0         # Setting screen to grey ("Simulate color space")
 rm -rf storage/self/primary/Android/data/com.xiaomi.finddevice # Remove "Android/data/com.xiaomi.finddevice" directory
 rm -rf storage/self/primary/Android/data/com.milink.service    # Remove "Android/data/com.milink.service"    directory
 rm -rf storage/self/primary/Android/data/com.android.updater   # Remove "Android/data/com.android.updater"   directory
