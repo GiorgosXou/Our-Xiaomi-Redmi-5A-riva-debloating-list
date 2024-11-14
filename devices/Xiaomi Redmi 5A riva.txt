@@ -175,7 +175,7 @@ org.fossify.filemanager                # File Manager
 org.fossify.messages                   # SMS Messenger
 org.fossify.voicerecorder              # Voice recorder
 info.dvkr.screenstream                 # Screen Casting
-org.dslul.openboard.inputmethod.latin  # OpenBoard - Keyboard
+helium314.keyboard                     # HeliBoard - Keyboard
 com.mhss.app.mybrain                   # My Brain - Notes
 org.videolan.vlc                       # VLC - video player
 org.schabi.newpipe                     # NewPipe - YouTube client
