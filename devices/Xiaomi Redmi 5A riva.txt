@@ -159,7 +159,7 @@ com.google.android.configupdater
 
 [INSTALL]
 com.fsck.k9                            # Mail
-com.simplemobiletools.clock            # Clock
+com.fossify.clock                      # Clock
 org.fossify.phone                      # Dialer
 org.fossify.gallery                    # Gallery
 danielmeek32.compass                   # Compass
@@ -168,7 +168,7 @@ org.fossify.contacts                   # Contacts
 eu.faircode.netguard                   # NetGuard
 us.spotco.ir_remote                    # IR Remote
 com.artifex.mupdf.mini.app             # PDF Viewer
-com.simplemobiletools.calculator       # Calculator
+com.fossify.calculator                 # Calculator
 net.sourceforge.opencamera             # Open Camera
 app.organicmaps                        # Organic Maps
 org.fossify.filemanager                # File Manager
